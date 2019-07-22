@@ -9,23 +9,24 @@
  - Robot can only move down and to the right
  
  Example:
- 
-     -------
-     |  |  |
-     -------
-     |  |  |
-     -------
+     
+         -------
+         |  |  |
+         -------
+         |  |  |
+         -------
  
  In a 2x2 grid, you have two unique paths
  - Right, down
  - Down, right
-
-     ----------
-     |  |  |  |
-     ----------
-     |  |  |  |
-     ----------
- 
+        
+             ----------
+             |  |  |  |
+             ----------
+             |  |  |  |
+             ----------
+         
+         
  In a 2x3 grid, you have 3 unique paths
  - Right, Right, down
  - Down, right right
