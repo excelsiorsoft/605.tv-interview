@@ -1,4 +1,4 @@
-package com.excelsiorsoft.grid.traverse;
+package com.excelsior.traverse.grid;
 
 class Grid { 
 
@@ -31,6 +31,7 @@ class Grid {
     	System.out.println("2x2 -> "+ numberOfPaths(2, 2)); 
     	System.out.println("2x3 -> "+ numberOfPaths(2, 3)); 
         System.out.println("2x4 -> "+ numberOfPaths(2, 4)); 
+        System.out.println("3x4 -> "+ numberOfPaths(3, 4));
     } 
 } 
 
